@@ -158,8 +158,8 @@ docker compose ps
 Identifiants par défaut :
 
 ```
-Email         : account@domaine.com
-Mot de passe  : changeme
+Email         : admin@kiality.com
+Mot de passe  : Admin@123!
 ```
 
 > ⚠️ Changez le mot de passe dès la première connexion.
