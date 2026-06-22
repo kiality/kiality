@@ -35,9 +35,9 @@ Les images sont publiées sur GitHub Container Registry :
 
 | Image | Description |
 |-------|-------------|
-| `ghcr.io/kiality/api` | API REST backend (.NET 8) |
-| `ghcr.io/kiality/frontend` | Portail client Blazor Server (.NET 8) |
-| `ghcr.io/kiality/worker` | Worker de traitement asynchrone (.NET 8) |
+| `ghcr.io/kiality/api` | API REST backend |
+| `ghcr.io/kiality/frontend` | Portail client Blazor Server |
+| `ghcr.io/kiality/worker` | Worker de traitement asynchrone |
 
 ```bash
 docker pull ghcr.io/kiality/api:latest
