@@ -2,7 +2,7 @@
 
 **Plateforme de qualité et conformité des données** pour les environnements industriels et tertiaires.
 
-Kiality connecte vos outils métier (ERP, CRM, ITSM…), évalue vos règles de conformité en continu et pilote la résolution des anomalies détectées — de la détection à la clôture.
+Kiality connecte vos outils métier (ERP, CRM, ITSM…), évalue vos règles de conformité en continu et pilote la résolution des anomalies détectées - de la détection à la clôture.
 
 ---
 
@@ -55,7 +55,7 @@ docker pull ghcr.io/kiality/worker:latest
 
 - Docker 24+
 - Docker Compose v2
-- Une clé de licence Kiality — [demander un accès](https://www.kiality.com/Demande)
+- Une clé de licence Kiality - [demander un accès](https://www.kiality.com/Demande)
 
 ### 1. Créer le fichier `.env`
 
